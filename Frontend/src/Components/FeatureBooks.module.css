@@ -1,0 +1,7 @@
+.featureBookStyle{
+  /* background-color: aqua; */
+  border: 10px black;
+  margin: 10px;
+  padding: 10px ;
+  object-fit: cover;
+}
